@@ -10,6 +10,7 @@ import {
 } from "react-icons/fa";
 
 const BannerImg = {
+  backgroundImage: `url(${Banner})`,
   backgroundPosition: "bottom",
   backgroundRepeat: "no-repeat",
   backgroundSize: "cover",
