@@ -1,2 +1,1 @@
-React Project
-PHOLOX E-Commerse
+React Project PHOLOX E-Commerse
